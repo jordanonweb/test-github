@@ -12,7 +12,7 @@
 ![Alt Text](https://ih1.redbubble.net/image.696597237.0486/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg)
 
 
-Nom de l'animé | Ordre de préf. | Date de parution Manga | Date de parution Animé
+**Nom de l'animé | Ordre de préf. | Date de parution Manga | Date de parution Animé**
 -------------- | -------------- | ---------------------- | ----------------------
 Naruto | 3 | 20 Septembre 1999 | 3 Octobre 2002
 One piece | 2 | 22 Juillet 1997 | 20 Octobre 1999
