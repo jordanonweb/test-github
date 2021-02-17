@@ -1,5 +1,5 @@
-Mes mangas préférés<h1>
-Ma liste de mangas:<h2>
+# Mes mangas préférés<h1>
+## Ma liste de mangas:<h2>
 
 1.Naruto
 2.One piece
